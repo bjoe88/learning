@@ -56,7 +56,7 @@ class MyQueue {
  */
 // @lc code=end
 /*
-21/21 cases passed (0 ms)
-Your runtime beats 100 % of java submissions
-Your memory usage beats 59.58 % of java submissions (36.9 MB)
-*/
+ * 21/21 cases passed (0 ms)
+ * Your runtime beats 100 % of java submissions
+ * Your memory usage beats 59.58 % of java submissions (36.9 MB)
+ */
